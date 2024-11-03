@@ -4,3 +4,5 @@ f1 on tablet
 
 first in gitclone im 1b on ph
 
+in main f1.txt two in gitclone
+
