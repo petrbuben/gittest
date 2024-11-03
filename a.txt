@@ -1,0 +1,7 @@
+a in main on smartphone
+a.txt in b1 on ph
+a in b1b2 on phone
+<<<<<<< HEAD
+
+=======
+>>>>>>> 9f383ef (undelete a.txt)
