@@ -6,3 +6,4 @@ first in gitclone im 1b on ph
 
 in main f1.txt two in gitclone
 
+in 3b f1.txt in clonegit three
