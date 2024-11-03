@@ -5,7 +5,5 @@ f1 on tablet
 first in gitclone im 1b on ph
 
 in main f1.txt two in gitclone
-
 in 3b f1.txt in clonegit three
 
-in 1b f1.txt four in clonegit
